@@ -1,8 +1,7 @@
 @import url(main.css);
 body {
-  font-family: 'Poppins', sans-serif;
-  color: #343434;
-  font-weight: 400;
+  font-family: "Playfair Display", Georgia, serif;
+    font-weight: 400;
 }
 
 .section-padding {
@@ -30,6 +29,12 @@ body {
   bottom: -10px;
   left: 0;
   z-index: -1;
+}
+.text-js {
+  background: #fcf1e7;
+    line-height: 1.85;
+    font-family: "Playfair Display", Georgia, serif;
+    padding: 5px;
 }
 .elimentCon{
   background-color: transparent;
